@@ -36,3 +36,7 @@ IntelliJ는 Gradle을 통해 실행하는 것이 디폴트이다. 이러면 실�
 ![run_console](./img/run_console.png)
 
 ![run_page](./img/run_page.png "성공!")
+
+## 참고
+---
+[스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
