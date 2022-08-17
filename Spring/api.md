@@ -32,3 +32,6 @@ static class Hello {
 * @ResopnseBody 사용하면 viewResolver 대신에 HttpMessageConverter가 동작.
 * 문자열은 StringHttpMessageConverter가 처리.
 * 객체는 MappingJackson2HttpMessageConverter가 처리.
+
+***TIP***  
+alt + insert 누르면 generate 기능 쓸 수 있는데 여기서 getter setter 자동으로 만들 수 있음.
